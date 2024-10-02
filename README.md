@@ -6,3 +6,8 @@ Para poder ejecutar este proyecto despues de clonarlo en la carpeta del proyecto
 ```
 pip install -r requirements.txt 
 ```
+Una vez hecho esto, para convertir el Excel de Centímetros a Pulgadas ejecutar en concola:
+
+```
+python programa_conversor.py
+```
